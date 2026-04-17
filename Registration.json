@@ -1,0 +1,24 @@
+[
+  {
+    "FirstName": "RHEA MAE",
+    "LastName": "BARON",
+    "MiddleInitial": "A.",
+    "Birthdate": "2007-05-29T01:51:52.647",
+    "Gender": "FEMALE",
+    "Address": "BAYANIHAN VILLAGE",
+    "Course": "BSIT",
+    "Year": "1",
+    "Age": 18
+  },
+  {
+    "FirstName": "ALVEDEL",
+    "LastName": "BICBIC",
+    "MiddleInitial": "N/A",
+    "Birthdate": "2004-10-20T01:52:59.377",
+    "Gender": "FEMALE",
+    "Address": "BONTORES BASAK",
+    "Course": "BSIT",
+    "Year": "1",
+    "Age": 21
+  }
+]
